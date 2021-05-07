@@ -1,8 +1,8 @@
 import React from 'react';
 
 class Address extends React.Component {
-  constructor(props) {
-    super(props);
+  // constructor(props) {
+  //   super(props);
     
   //   this.state = {
   //     fullAddress: `${props.street}, ${props.city}`
@@ -18,4 +18,4 @@ class Address extends React.Component {
   }
 }
 
-export dafault Address;
+export default Address;

@@ -6,7 +6,7 @@ import Address from './components/Address';
 
 ReactDOM.render(
   <ToggleButton />,
-  <Adress 
+  <Address 
     street="Santa Monica Blvd."
     city="Santa Monica"
   />,
